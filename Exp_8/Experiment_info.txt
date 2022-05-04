@@ -1,0 +1,9 @@
+epochs: 40
+batch_size: 128
+n_gen_per_critic: 3
+latent_dim: 128
+g_learning_rate: 0.0001
+c_learning_rate: 0.001
+sink_iter: 10
+entropy_reg: 0.1
+use_critic: True

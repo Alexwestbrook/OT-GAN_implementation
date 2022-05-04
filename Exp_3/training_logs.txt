@@ -1,0 +1,11 @@
+critic loss: [[-0.18071271]] - generator_loss: [[0.19199681]] - time: 65.07268905639648
+critic loss: [[-0.05998419]] - generator_loss: [[0.05943865]] - time: 66.30770993232727
+critic loss: [[-0.04647399]] - generator_loss: [[0.05285725]] - time: 69.34963154792786
+critic loss: [[-0.04875902]] - generator_loss: [[0.0511265]] - time: 66.82952070236206
+critic loss: [[-0.04339093]] - generator_loss: [[0.05265914]] - time: 67.778085231781
+critic loss: [[-0.05008259]] - generator_loss: [[0.04939695]] - time: 70.13894701004028
+critic loss: [[-0.05113155]] - generator_loss: [[0.05433197]] - time: 65.16358828544617
+critic loss: [[-0.05599729]] - generator_loss: [[0.05482559]] - time: 66.21731805801392
+critic loss: [[-0.06213538]] - generator_loss: [[0.05651738]] - time: 64.945143699646
+critic loss: [[-0.05868633]] - generator_loss: [[0.05732818]] - time: 66.41874098777771
+critic loss: [[-0.05597952]] - generator_loss: [[0.05497957]] - time: 63.188130617141724
