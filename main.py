@@ -383,6 +383,15 @@ def plot_grid(images, size=8, title=None, start_idx=0):
     plt.close()
 
 
+def show_hyperparameters(Exp_dir):
+    print('Hyperparameters:')
+    with open(os.path.join(Exp_dir,'Experiment_info.txt'),'r') as f:
+        line = True
+        while line:
+            line = f.readline()
+            print(line, end='')
+
+
 if __name__ == "__main__":
     dataset_train = mnist_preprocessing()
 
